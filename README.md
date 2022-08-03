@@ -1,7 +1,7 @@
 ### Olá! Sou o Ivandro :D 👋
 
 - 🔭 Cursando Ciência da Computação
-- 🌱 Estudando Java e JavaScript
+- 🌱 Estudando JavaScript
 - 📫 Contate-me no e-mail: ivandronovais@gmail.com
 <div align="center">
   <a href="https://github.com/ivnovais/ivnovais">

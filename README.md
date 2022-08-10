@@ -2,7 +2,7 @@
 
 - 🔭 Cursando Ciência da Computação
 - 🌱 Estudando JavaScript
-- 📫 Contate-me no e-mail: ivandronovais@gmail.com
+- 📫 Contate-me no e-mail: ivandronovais@proton.me
 <div align="center">
   <a href="https://github.com/ivnovais/ivnovais">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ivnovais&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
